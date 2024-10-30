@@ -1,0 +1,33 @@
+{
+  "name": "hour-second-converter",
+  "version": "0.0.1",
+  "description": "---",
+  "main": "main.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasfn87/hour-second-converter.git"
+  },
+  "keywords": [
+    "hour",
+    "HhMmSs",
+    "second",
+    "converter"
+  ],
+  "author": "tomasfn87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasfn87/hour-second-converter/issues"
+  },
+  "homepage": "https://github.com/tomasfn87/hour-second-converter#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.1"
+  }
+}
